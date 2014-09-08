@@ -4,9 +4,9 @@ This is a guide for writing consistent and aesthetically pleasing JS code.
 It is inspired by what is popular within the community, and flavored with some
 personal opinions.
 
-There is a .jshintrc which enforces these rules as closely as possible. You can
-either use that and adjust it, or use
-[this script](https://gist.github.com/kentcdodds/11293570) to make your own.
+There is a `.jshintrc` which enforces these rules as closely as possible.
+Have a look at the [installation instructions](http://www.jshint.com/install/) for ways to include it into your favorite editor.
+
 
 This guide was created by [Felix Geisendörfer](http://felixge.de/) and is
 licensed under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
